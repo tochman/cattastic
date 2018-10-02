@@ -29,5 +29,4 @@ module Cattastic
       generate.system_tests false
     end
   end
-  end
 end
