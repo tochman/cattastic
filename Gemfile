@@ -20,6 +20,7 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'
   gem 'cucumber-rails', '~> 1.6', require: false
+  gem 'database_cleaner'
 end
 
 group :development do
