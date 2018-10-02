@@ -15,7 +15,7 @@ group :development, :test do
   gem 'coveralls', require: false
   gem 'pry-byebug'
   gem 'launchy'
-  gem 'pry-rails'
+  gem 'pry-rails' 
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'

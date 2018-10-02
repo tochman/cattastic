@@ -1,5 +1,5 @@
 ### Instructions
-Pulling from https://thecatapi.com/ we will create a cat comparison web app! 
+Pulling from https://thecatapi.com/ we will create a cat comparison web app!
 
 
 ### Learning objective
