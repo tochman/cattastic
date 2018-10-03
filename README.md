@@ -6,3 +6,4 @@ Pulling from https://thecatapi.com/ we will create a cat comparison web app!
 
 ### Learning objective
 Retrieving and uploading data to an open API and understanding what they do. 
+
