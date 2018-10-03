@@ -11,6 +11,15 @@ gem 'turbolinks', '~> 5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
+  gem 'coveralls', require: false
+  gem 'pry-byebug'
+  gem 'launchy'
+  gem 'pry-rails' 
+  gem 'rspec-rails'
+  gem 'shoulda-matchers'
+  gem 'factory_bot_rails'
+  gem 'cucumber-rails', '~> 1.6', require: false
+  gem 'database_cleaner'
 end
 
 group :development do
